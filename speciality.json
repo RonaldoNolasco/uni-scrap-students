@@ -1,0 +1,114 @@
+[
+    {
+      "codigo": "A1",
+      "nombre": "ARQUITECTURA"
+    },
+    {
+      "codigo": "C1",
+      "nombre": "INGENIERÍA CIVIL"
+    },
+    {
+      "codigo": "E1",
+      "nombre": "INGENIERÍA ECONÓMICA"
+    },
+    {
+      "codigo": "E3",
+      "nombre": "INGENIERÍA ESTADÍSTICA"
+    },
+    {
+      "codigo": "G1",
+      "nombre": "INGENIERÍA GEOLÓGICA"
+    },
+    {
+      "codigo": "G2",
+      "nombre": "INGENIERÍA METALÚRGICA"
+    },
+    {
+      "codigo": "G3",
+      "nombre": "INGENIERÍA DE MINAS"
+    },
+    {
+      "codigo": "I1",
+      "nombre": "INGENIERÍA INDUSTRIAL"
+    },
+    {
+      "codigo": "I2",
+      "nombre": "INGENIERÍA DE SISTEMAS"
+    },
+    {
+      "codigo": "L1",
+      "nombre": "INGENIERÍA ELÉCTRICA"
+    },
+    {
+      "codigo": "L2",
+      "nombre": "INGENIERÍA ELECTRÓNICA"
+    },
+    {
+      "codigo": "L3",
+      "nombre": "INGENIERÍA DE TELECOMUNICACIONES"
+    },
+    {
+      "codigo": "M3",
+      "nombre": "INGENIERÍA MECÁNICA"
+    },
+    {
+      "codigo": "M4",
+      "nombre": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
+    },
+    {
+      "codigo": "M5",
+      "nombre": "INGENIERÍA NAVAL"
+    },
+    {
+      "codigo": "M6",
+      "nombre": "INGENIERÍA MECATRÓNICA"
+    },
+    {
+      "codigo": "N1",
+      "nombre": "FÍSICA"
+    },
+    {
+      "codigo": "N2",
+      "nombre": "MATEMÁTICA"
+    },
+    {
+      "codigo": "N3",
+      "nombre": "QUÍMICA"
+    },
+    {
+      "codigo": "N5",
+      "nombre": "INGENIERÍA FÍSICA"
+    },
+    {
+      "codigo": "N6",
+      "nombre": "CIENCIA DE LA COMPUTACIÓN"
+    },
+    {
+      "codigo": "P2",
+      "nombre": "INGENIERÍA PETROQUÍMICA"
+    },
+    {
+      "codigo": "P3",
+      "nombre": "INGENIERÍA DE PETRÓLEO Y GAS NATURAL"
+    },
+    {
+      "codigo": "Q1",
+      "nombre": "INGENIERÍA QUÍMICA"
+    },
+    {
+      "codigo": "Q2",
+      "nombre": "INGENIERÍA TEXTIL"
+    },
+    {
+      "codigo": "S1",
+      "nombre": "INGENIERÍA SANITARIA"
+    },
+    {
+      "codigo": "S2",
+      "nombre": "INGENIERÍA DE HIGIENE Y SEGURIDAD INDUSTRIAL"
+    },
+    {
+      "codigo": "S3",
+      "nombre": "INGENIERÍA AMBIENTAL"
+    }
+  ]
